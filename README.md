@@ -20,6 +20,11 @@ Here is several DL material summarizations
 * https://github.com/kjw0612/awesome-deep-vision#image-captioning
 * https://github.com/kjw0612/awesome-rnn
 * https://github.com/ChristosChristofidis/awesome-deep-learning
+ 
+DL research grows fast, following arXiv might be necessary.
+* http://arxiv.org/list/cs.CL/recent
+* http://arxiv.org/list/cs.CV/recent
+* http://arxiv.org/list/cs.LG/recent
 
 ### Warm-up
 * Module 1 from the lecture [notes](http://cs231n.github.io) and the [videos](http://cs231n.stanford.edu/syllabus.html) of CS231n
