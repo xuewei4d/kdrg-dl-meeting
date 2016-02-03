@@ -12,7 +12,7 @@ We recommend the people who are doing DL research right now to join in the discu
   * topics: logistic regression, softmax, SVM, neural network architecture, activation function, initialization methods, optimization methods, other tricks 
 * paper discussion
   * We encourage everybody to finish reading the selected papers within one week and comment on them in the following session.
-  * We pick papers every Wednesday. Every participant sends a PR or modification to [papers.md](https://github.com/xuewei4d/kdrg-dl-meeting/blob/master/papers.md) to promote papers. We vote and select papers for the next week by the midnight of every Wednesday.
+  * We pick papers every Wednesday. Every participant sends a PR or modification to [papers.md](https://github.com/xuewei4d/kdrg-dl-meeting/blob/master/papers.md) to propose papers. We vote and select papers for the next week by the midnight of every Wednesday.
 
 ## Materials
 Here is several DL material summarizations
