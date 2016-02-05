@@ -29,3 +29,9 @@ DL research grows fast, following arXiv might be necessary.
 ### Warm-up
 * Module 1 from the lecture [notes](http://cs231n.github.io) and the [videos](http://cs231n.stanford.edu/syllabus.html) of CS231n
 * Bengio's DL [Book](http://www.deeplearningbook.org) Chapter 6, 7, 8 
+
+### S1
+* basic machine learning concepts: classification, KNN, SVM, softmax
+ * reading DLBook [Chapter 5](http://www.deeplearningbook.org/contents/ml.html)
+ * CS231n [classification notes](http://cs231n.github.io/classification/), [linear classifier notes](http://cs231n.github.io/linear-classify/)
+ * CS231n [Lecture 1, 2, 3](http://cs231n.stanford.edu/syllabus.html)
